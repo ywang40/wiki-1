@@ -10,7 +10,7 @@ Return to [[./README.org][Main Page]].
 - Neha Mehra (2017 Chemical Engineering)
 - Craig Waitt (2017 Chemistry)
 - Jian Ren Lim (2018 Chemical Engineering)
-
+- Xuyao Gao
 ** Current Post-doctoral Associates
 - Dr. Hanyu Ma
 - Dr. Joseph Zhao
