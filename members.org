@@ -3,11 +3,6 @@ Return to [[./README.org][Main Page]].
 
 
 ** Current Graduate Students
-- Anshuman Bajpai (2013 Chemical Engineering)
-- Hui Li (2014 Chemical Engineering)
-- Sichi Li (2015 Chemical Engineering)
-- Prateek Mehta (2015 Chemical Engineering)
-- Gray Laughlin (2016 Chemical Engineering)
 - Jeonghyun Ko (2016 Chemical Engineering)
 - Yujia Wang (2016 Chemistry)
 - Anshuman Goswami (2017 Chemical Engineering)
@@ -15,7 +10,6 @@ Return to [[./README.org][Main Page]].
 - Neha Mehra (2017 Chemical Engineering)
 - Craig Waitt (2017 Chemistry)
 - Jian Ren Lim (2018 Chemical Engineering)
-- Yixiao Hou (2018 Chemical Engineering)
 
 ** Current Post-doctoral Associates
 - Dr. Hanyu Ma
